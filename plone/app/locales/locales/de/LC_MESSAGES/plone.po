@@ -14862,3 +14862,50 @@ msgstr "Ja"
 #: plone.app.layout/plone/app/layout/viewlets/path_bar.pt:5
 msgid "you_are_here"
 msgstr "Sie sind hier"
+
+## Customer Add-ons
+msgid "EffectiveDate"
+msgstr "Veröffentlichung"
+
+msgid "CreationDate"
+msgstr "Erstellung"
+
+msgid "ModificationDate"
+msgstr "Änderungsdatum"
+
+msgid "review_state"
+msgstr "Status"
+
+msgid "getRemoteUrl"
+msgstr "Web-Adresse"
+
+msgid "location"
+msgstr "Ort"
+
+msgid "firstname"
+msgstr "Vorname"
+
+msgid "lastname"
+msgstr "Nachname"
+
+msgid "portal_type"
+msgstr "Artikeltyp"
+
+msgid "webcode"
+msgstr "Webcode"
+
+msgid "email"
+msgstr "E-Mail"
+
+msgid "getStartDate"
+msgstr "Beginn"
+
+msgid "getEndDate"
+msgstr "Ende"
+
+msgid "start"
+msgstr "Beginn"
+
+msgid "end"
+msgstr "Ende"
+

@@ -14909,3 +14909,5 @@ msgstr "Beginn"
 msgid "end"
 msgstr "Ende"
 
+msgid "created"
+msgstr "Erstellungsdatum"
